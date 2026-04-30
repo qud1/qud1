@@ -1,2 +1,6 @@
-# qud
-<img width="500" height="278" alt="Image" src="https://github.com/user-attachments/assets/5d8f28db-709f-48eb-850f-c071a3d50fc8" />
+<div id="header" align="center">
+࣪ ⁠⁠⁠я сашка куд мая мама шлюха
+
+<div id="header" align="left">
+<img src="https://files.catbox.moe/nx8hgi.gif" width="500" height="278"/>
+
