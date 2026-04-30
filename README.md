@@ -2,5 +2,5 @@
 ࣪ ⁠⁠⁠я сашка куд мая мама шлюха
 
 <div id="header" align="left">
-<img src="https://files.catbox.moe/nx8hgi.gif" width="500" height="278"/>
+<img src="https://files.catbox.moe/nx8hgi.gif" width="580" height="358"/>
 
