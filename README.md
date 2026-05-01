@@ -3,7 +3,7 @@
 
 
 <div id="header" align="left"> 
-<img width="735" height="245" alt="kuroko no basket ー ʜᴇᴀᴅᴇʀ !-Photoroom" src="https://github.com/user-attachments/assets/bd4701be-5171-410f-852c-850e1d9e4666" />
+
 
   
 <div id="header" align="center">
