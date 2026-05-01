@@ -5,7 +5,6 @@
 
 <div id="header" align="left"> 
 <img width="136" height="136" alt="Png" src="https://github.com/user-attachments/assets/386fcbe6-6de4-4fa1-8be0-9a0530163304" />
-<img src="https://github.com/user-attachments/assets/386fcbe6-6de4-4fa1-8be0-9a0530163304" align="left" width="100" hspace="10" />
   охохохохохохохохох даааааа тут умный текст я не придумола 
 
 <div id="header" align="right"> 
