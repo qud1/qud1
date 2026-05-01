@@ -8,7 +8,7 @@
 
 <div id="header" align="right"> 
 <img width="136" height="136" alt="Без названия (1)" src="https://github.com/user-attachments/assets/c126fcd6-6963-4869-bc39-c6885fcf271a" />
-
+я типо не умебю деклать кросивые профели на гитхаби
 
 
   
