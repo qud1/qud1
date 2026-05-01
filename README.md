@@ -3,7 +3,7 @@
 ࣪
 
 <div id="header" align="left"> 
-<img width="736" height="736" alt="Png" src="https://github.com/user-attachments/assets/386fcbe6-6de4-4fa1-8be0-9a0530163304" />
+<img width="236" height="236" alt="Png" src="https://github.com/user-attachments/assets/386fcbe6-6de4-4fa1-8be0-9a0530163304" />
 
 
 
