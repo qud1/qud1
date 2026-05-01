@@ -1,5 +1,5 @@
 <div id="header" align="left"> 
-<img width="126" height="339" alt="Без названия" src="https://github.com/user-attachments/assets/06081c82-4b00-40a1-8b09-70e005b5dcec" />
+<img width="126" height="339" alt="Без названия" src="https://github.com/user-attachments/assets/06081c82-4b00-40a1-8b09-70e005b5dcec" />     а если я тут текст напишу где он будет
 
   <div id="header" align="center"> 
 ࣪⁠⁠   ⁠────я сашка куд мая мама шлюха хихихи⁠⁠────➤ 
